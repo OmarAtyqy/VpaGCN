@@ -1,0 +1,11 @@
+data/csv/data_cleaned.csv
+data/csv/data_embedded.csv
+data/csv/data_resampled.csv
+
+data/graphs/*
+data/sim/*
+
+figures/dist/*
+figures/heat/*
+
+.vscode/*

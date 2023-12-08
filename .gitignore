@@ -1,6 +1,8 @@
 data/csv/data_cleaned.csv
 data/csv/data_embedded.csv
 data/csv/data_resampled.csv
+data/csv/test_nodes.csv
+data/csv/train_nodes.csv
 
 data/graphs/*
 data/sim/*

@@ -9,5 +9,8 @@ data/sim/*
 
 figures/dist/*
 figures/heat/*
+figures/results/*
 
 .vscode/*
+
+models/*

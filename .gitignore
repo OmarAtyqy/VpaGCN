@@ -10,6 +10,7 @@ data/sim/*
 figures/dist/*
 figures/heat/*
 figures/results/*
+figures/gif/*
 
 .vscode/*
 
